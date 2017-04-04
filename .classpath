@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="FindIntAfter1"/>
+	<classpathentry kind="src" path="FindIntAfter2"/>
+	<classpathentry kind="src" path="FindIntBefore"/>
+	<classpathentry kind="src" path="SimpleDatabaseAfter1"/>
+	<classpathentry kind="src" path="SimpleDatabaseAfter2"/>
+	<classpathentry kind="src" path="SimpleDatabaseBefore"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
